@@ -1,6 +1,6 @@
 # Avocado_Sales
  
-In this private project I analyze the Avocado Sales of US cities. 
+In this private project I analyze the Avocado sales of US cities. 
 
 I visualized some relevant analyses with Tableau, which can be found on this dashboard: xxx
 
